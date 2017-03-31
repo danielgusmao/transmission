@@ -3,8 +3,10 @@
 
 ## docker-transmission
 
-This project has been copied from ... 
+This project has been copied from.
+
 https://github.com/ccorsano/alpine-transmission
+
 https://hub.docker.com/r/ccorsano/alpine-transmission/
 
 and is being modified by me.
