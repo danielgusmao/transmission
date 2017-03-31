@@ -1,5 +1,5 @@
 # Transmission on Alpine Linux
-[![](https://badge.imagelayers.io/ccorsano/alpine-transmission:latest.svg)](https://imagelayers.io/?images=ccorsano/alpine-transmission:latest 'Get your own badge on imagelayers.io')
+[![](http://idroot.net/wp-content/uploads/2015/02/transmission-bittorrent.jpg)](https://imagelayers.io/?images=ccorsano/alpine-transmission:latest 'Get your own badge on imagelayers.io')
 
 ## docker-transmission
 
