@@ -3,6 +3,10 @@
 
 ## docker-transmission
 
+This project has been copied from ... and is being modified by me.
+https://github.com/ccorsano/alpine-transmission
+https://hub.docker.com/r/ccorsano/alpine-transmission/
+
 Transmission Daemon Docker Container
 Very basic fork of rlesouef/alpine-transmission to allow persistence of the config files using a shared volume.
 
