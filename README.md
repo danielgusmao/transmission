@@ -1,11 +1,13 @@
 # Transmission on Alpine Linux
-[![](http://idroot.net/wp-content/uploads/2015/02/transmission-bittorrent.jpg)]
+![](http://idroot.net/wp-content/uploads/2015/02/transmission-bittorrent.jpg)
 
 ## docker-transmission
 
-This project has been copied from ... and is being modified by me.
+This project has been copied from ... 
 https://github.com/ccorsano/alpine-transmission
 https://hub.docker.com/r/ccorsano/alpine-transmission/
+
+and is being modified by me.
 
 Transmission Daemon Docker Container
 Very basic fork of rlesouef/alpine-transmission to allow persistence of the config files using a shared volume.
