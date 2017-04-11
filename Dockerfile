@@ -20,8 +20,5 @@ VOLUME ["/transmission/incomplete"]
 
 EXPOSE 9091 51413/tcp 51413/udp
 
-ENV USERNAME admin
-ENV PASSWORD password
-
 RUN chmod +x /start-transmission.sh
 CMD ["/start-transmission.sh"]
